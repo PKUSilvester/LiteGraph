@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-server/src/main/resources/archetype-resources/archetype-resources (1).iml" filepath="$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-server/src/main/resources/archetype-resources/archetype-resources (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-tinkergraph/src/main/resources/archetype-resources/archetype-resources (2).iml" filepath="$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-tinkergraph/src/main/resources/archetype-resources/archetype-resources (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/giraph-gremlin/giraph-gremlin.iml" filepath="$PROJECT_DIR$/giraph-gremlin/giraph-gremlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype.iml" filepath="$PROJECT_DIR$/gremlin-archetype/gremlin-archetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-server/gremlin-archetype-server.iml" filepath="$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-server/gremlin-archetype-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-tinkergraph/gremlin-archetype-tinkergraph.iml" filepath="$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-tinkergraph/gremlin-archetype-tinkergraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-benchmark/gremlin-benchmark.iml" filepath="$PROJECT_DIR$/gremlin-benchmark/gremlin-benchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-console/gremlin-console.iml" filepath="$PROJECT_DIR$/gremlin-console/gremlin-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-core/gremlin-core.iml" filepath="$PROJECT_DIR$/gremlin-core/gremlin-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-driver/gremlin-driver.iml" filepath="$PROJECT_DIR$/gremlin-driver/gremlin-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-groovy/gremlin-groovy.iml" filepath="$PROJECT_DIR$/gremlin-groovy/gremlin-groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-groovy-test/gremlin-groovy-test.iml" filepath="$PROJECT_DIR$/gremlin-groovy-test/gremlin-groovy-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-server/gremlin-server.iml" filepath="$PROJECT_DIR$/gremlin-server/gremlin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-shaded/gremlin-shaded.iml" filepath="$PROJECT_DIR$/gremlin-shaded/gremlin-shaded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gremlin-test/gremlin-test.iml" filepath="$PROJECT_DIR$/gremlin-test/gremlin-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-gremlin/hadoop-gremlin.iml" filepath="$PROJECT_DIR$/hadoop-gremlin/hadoop-gremlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo4j-gremlin/neo4j-gremlin.iml" filepath="$PROJECT_DIR$/neo4j-gremlin/neo4j-gremlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-gremlin/spark-gremlin.iml" filepath="$PROJECT_DIR$/spark-gremlin/spark-gremlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinkergraph-gremlin/tinkergraph-gremlin.iml" filepath="$PROJECT_DIR$/tinkergraph-gremlin/tinkergraph-gremlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinkerpop.iml" filepath="$PROJECT_DIR$/tinkerpop.iml" />
+    </modules>
+  </component>
+</project>

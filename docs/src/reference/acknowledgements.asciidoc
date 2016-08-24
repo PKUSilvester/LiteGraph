@@ -1,0 +1,32 @@
+////
+Licensed to the Apache Software Foundation (ASF) under one or more
+contributor license agreements.  See the NOTICE file distributed with
+this work for additional information regarding copyright ownership.
+The ASF licenses this file to You under the Apache License, Version 2.0
+(the "License"); you may not use this file except in compliance with
+the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+////
+[[acknowledgements]]
+Acknowledgements
+================
+
+image:yourkit-logo.png[width=200,float=left] YourKit supports the TinkerPop open source project with its full-featured
+Java Profiler. YourKit, LLC is the creator of innovative and intelligent tools for profiling Java and .NET
+applications. YourKit's leading software products: link:http://www.yourkit.com/java/profiler/index.jsp[YourKit Java Profiler]
+and link:http://www.yourkit.com/.net/profiler/index.jsp[YourKit .NET Profiler]
+
+image:ketrina-tinkerpop3.png[width=150,float=right] link:http://ketrinayim.tumblr.com[Ketrina Yim] -- Designing
+Gremlin and his friends for TinkerPop was one of my first major projects as a freelancer, and it's delightful to
+see them on the Web and all over the documentation! Drawing and tweaking the characters over time is like watching
+them grow up. They've gone from sketches on paper to full-color logos, and from logos to living characters that
+cheerfully greet visitors to the TinkerPop website. And it's been a great time all throughout!
+
+...in the beginning. 

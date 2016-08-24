@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/giraph-gremlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-archetype" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-server/src/main/resources/archetype-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-tinkergraph" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-tinkergraph/src/main/resources/archetype-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-benchmark" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-groovy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-groovy-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-shaded" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gremlin-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hadoop-gremlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neo4j-gremlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-gremlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tinkergraph-gremlin" charset="UTF-8" />
+  </component>
+</project>

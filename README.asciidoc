@@ -1,0 +1,66 @@
+////
+Licensed to the Apache Software Foundation (ASF) under one or more
+contributor license agreements.  See the NOTICE file distributed with
+this work for additional information regarding copyright ownership.
+The ASF licenses this file to You under the Apache License, Version 2.0
+(the "License"); you may not use this file except in compliance with
+the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+////
+TinkerPop3
+----------
+
+image:https://raw.githubusercontent.com/apache/tinkerpop/master/docs/static/images/tinkerpop3-splash.png[TinkerPop3, link="http://tinkerpop.apache.org"]
+
+Documentation
+~~~~~~~~~~~~~
+
+TinkerPop3 provides graph computing capabilities for both graph databases (OLTP) and graph analytic systems (OLAP).
+
+* link:http://tinkerpop.apache.org/[homepage (downloads)]
+* link:http://tinkerpop.apache.org/docs/current/reference/[reference documentation]
+* link:http://tinkerpop.apache.org/javadocs/current/core/[core javadoc]
+* link:http://tinkerpop.apache.org/javadocs/current/full/[full javadoc]
+
+Building and Testing
+~~~~~~~~~~~~~~~~~~~~
+
+TinkerPop uses link:https://maven.apache.org/[Maven] and requires `Java 1.8.0_40+` for proper building and proper operations. To build, execute unit tests and package Gremlin Console/Server run:
+
+[source,bash]
+mvn clean install
+
+The zip distributions can be found in the following directories:
+
+. `gremlin-server/target`
+. `gremlin-console/target`
+
+Please see the link:http://tinkerpop.apache.org/docs/current/dev/developer/#_contributing[CONTRIBUTING.asciidoc] file for more detailed information and options for building, test running and developing TinkerPop.
+
+Get Started
+~~~~~~~~~~~
+
+[source,bash]
+----
+$ bin/gremlin.sh
+
+         \,,,/
+         (o o)
+-----oOOo-(3)-oOOo-----
+plugin activated: tinkerpop.server
+plugin activated: tinkerpop.utilities
+plugin activated: tinkerpop.tinkergraph
+gremlin> graph = TinkerFactory.createModern()
+==>tinkergraph[vertices:6 edges:6]
+gremlin> g = graph.traversal()
+==>graphtraversalsource[tinkergraph[vertices:6 edges:6], standard]
+gremlin> g.V().has('name','vadas').valueMap()
+==>[name:[vadas], age:[27]]
+----

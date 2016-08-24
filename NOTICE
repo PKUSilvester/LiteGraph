@@ -1,0 +1,15 @@
+Apache TinkerPop (incubating)
+Copyright 2015-2016 The Apache Software Foundation.
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+------------------------------------------------------------------------
+Activiti
+------------------------------------------------------------------------
+Activiti BPM Platform
+Copyright 2010-2014 Alfresco Software, Ltd.
+
+gremlin-core/src/main/java/org/apache/tinkerpop/gremlin/structure/io/graphml/GraphMLWriterHelper.java
+contains DelegatingXMLStreamWriter.java and IndentingXMLStreamWriter.java from
+modules/activiti-bpmn-converter/src/main/java/org/activiti/bpmn/converter/

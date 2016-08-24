@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-server/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/gremlin-archetype/gremlin-archetype-tinkergraph/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="archetype-resources (1)" />
+        <module name="archetype-resources (2)" />
+        <module name="giraph-gremlin" />
+        <module name="gremlin-console" />
+        <module name="gremlin-core" />
+        <module name="gremlin-driver" />
+        <module name="gremlin-groovy" />
+        <module name="gremlin-groovy-test" />
+        <module name="gremlin-server" />
+        <module name="gremlin-shaded" />
+        <module name="gremlin-test" />
+        <module name="hadoop-gremlin" />
+        <module name="neo4j-gremlin" />
+        <module name="spark-gremlin" />
+        <module name="tinkergraph-gremlin" />
+      </profile>
+      <profile default="false" name="Annotation profile for Apache TinkerPop" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gremlin-archetype-server" />
+        <module name="gremlin-archetype-tinkergraph" />
+      </profile>
+      <profile default="false" name="Annotation profile for gremlin-benchmark" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gremlin-benchmark" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="archetype-resources (1)" target="1.5" />
+      <module name="archetype-resources (2)" target="1.5" />
+      <module name="giraph-gremlin" target="1.4" />
+      <module name="gremlin-archetype" target="1.4" />
+      <module name="gremlin-archetype-server" target="1.4" />
+      <module name="gremlin-archetype-tinkergraph" target="1.4" />
+      <module name="gremlin-benchmark" target="1.4" />
+      <module name="gremlin-console" target="1.4" />
+      <module name="gremlin-core" target="1.4" />
+      <module name="gremlin-driver" target="1.4" />
+      <module name="gremlin-groovy" target="1.4" />
+      <module name="gremlin-groovy-test" target="1.4" />
+      <module name="gremlin-server" target="1.4" />
+      <module name="gremlin-shaded" target="1.4" />
+      <module name="gremlin-test" target="1.4" />
+      <module name="hadoop-gremlin" target="1.4" />
+      <module name="neo4j-gremlin" target="1.4" />
+      <module name="spark-gremlin" target="1.4" />
+      <module name="tinkergraph-gremlin" target="1.4" />
+      <module name="tinkerpop" target="1.4" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
